@@ -1,13 +1,10 @@
-February 14, 2018
-- ran ng new <app> to use a generator to install the app.
+#General Helpful Notes
+* Run ng serve to launch localhost
 
-
-
-Setup Notes:
-
+#Setup Notes
 1. Checked for npm installation and upgraded to latest version
-2. Ran npm init to create a package.json file.
-3. 
+2. February 14, 2018: ran ng new <app> to use a generator to install the app.
+
 
 
 ===========
