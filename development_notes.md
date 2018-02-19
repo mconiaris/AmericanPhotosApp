@@ -1,7 +1,8 @@
 # AmericanPhotosApp General Helpful Notes
 
-## Node.js Tutorial:
-https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
+## Node.js Tutorial:s
+* https://codehandbook.org/creating-a-web-app-using-angular-4/
+* https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
