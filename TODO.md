@@ -4,6 +4,7 @@
 * Research proper package.json setup
 * Determine Bower replacement (learn difference between npm, Yarn and webpack)?
 * Install Bootstrap?
+* Test git remote
 
 
 
