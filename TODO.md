@@ -2,6 +2,7 @@
 
 ##Current Install
 * Research proper package.json setup
+* Research scripts in package.json
 * Determine Bower replacement (learn difference between npm, Yarn and webpack)?
 * Install Bootstrap?
 
