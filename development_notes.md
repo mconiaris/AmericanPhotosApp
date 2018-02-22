@@ -1,6 +1,6 @@
 # AmericanPhotosApp General Helpful Notes
 
-## Node.js Tutorial:s
+## Node.js Tutorials:
 * https://codehandbook.org/creating-a-web-app-using-angular-4/
 * https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 
