@@ -27,6 +27,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Checked for npm installation and upgraded to latest version
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 * February 14, 2018: ran ng new <app> to use a generator to install the app.
+* March 5, 2018: Decided to go with npm as my front end package manager
+* March 5, 2018: installed Boostrap
 
 
 
