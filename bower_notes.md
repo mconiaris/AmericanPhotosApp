@@ -1,4 +1,4 @@
-Bower is dead, long live npm. And Yarn. And webpack.
+#Bower is dead, long live npm. And Yarn. And webpack.
 Assaf Hefetz
 05 Dec, 2017
 
@@ -19,7 +19,8 @@ Bower, on the other hand, left it to the user to manage dependencies. For exampl
 
 Although Bower’s advantages were compelling, they are now provided by other tools, namely npm, Yarn and webpack. Bower also has some marked disadvantages you should be aware of.
 
-Six reasons to stop using Bower and switch to a new workflow
+##Six reasons to stop using Bower and switch to a new workflow
+
 Below are the main reasons to move away from Bower for front-end dependencies.
 
 1. Bower has been deprecated by its creators
@@ -46,15 +47,18 @@ With recent advances in npm and supporting technologies like webpack and Yarn, c
 6. Bower doesn’t support different versions of the same package on the same page
 This is a corner case, but a fairly common one. In Bower you couldn’t reference the same library from two different packages, but with two different versions. npm 3 provides this capability out of the box, together with a flat dependency graph.
 
-How are packages managed today?
+##How are packages managed today?
 We mentioned that Bower’s advantages had been superseded by newer tools. The modern dependency stack, consisting of npm/Yarn for Node package management and webpack for management of static assets, has made Bower redundant:
 
 npm is the package manager of choice, for both back-end and front-end packages.
+
 Yarn is a front-end for npm which offers several important advantages: higher performance for installation of dependencies, a more robust ability to lock or “pin” packages to a specific version, improved security and an offline mode. Since the release of npm 3, some of these advantages are less pronounced so it’s worth taking a close look to see if Yarn adds value to your workflow.
+
 webpack is a module bundler, or in other words, a build tool. It provides loaders and plugins that allow you to prepare static file dependencies for your web projects. For example, webpack can take a bunch of CSS files, minify them, and build them as part of your project. webpack fills in an important missing piece for npm users, because many of the assets used to build a web app are not Node.js components. webpack can pull in, prepare and install all those other elements, while npm installs the Node libraries used by the web app.
+
 There are already a few great resources for how to migrate from Bower to a more modern and versatile stack, including Anrejs Abrickis’s excellent write-up and the official post by Bower creator Adam Stankiewicz.
 
-Conclusion
+##Conclusion
 The labyrinth of front-end libraries and frameworks available today makes using a package manager to handle your front-end dependencies critical.
 
 Bower played an important role in improving the way front-end developers manage their dependencies—the advantages it provided set the stage for later features in npm and Yarn. But Bower is no longer the best option in town. The arrival of Yarn and changes in npm 3 allow you to get all the benefits of Bower without the hassle.
