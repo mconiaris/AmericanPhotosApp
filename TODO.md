@@ -3,7 +3,6 @@
 ##Current Install
 * Research proper package.json setup
 * Research scripts in package.json
-* npm WARN bootstrap@4.0.0 requires a peer of jquery@1.9.1 - 3 but none is installed. You must install peer dependencies yourself.
 * npm WARN bootstrap@4.0.0 requires a peer of popper.js@^1.12.9 but none is installed. You must install peer dependencies yourself.
 
 
