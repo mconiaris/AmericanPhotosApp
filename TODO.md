@@ -1,6 +1,7 @@
 #American Photos TODO
 
 ##Current Install
+* look into zkat / ssri issue and package-lock.json
 * Research proper package.json setup
 * Research scripts in package.json
 
