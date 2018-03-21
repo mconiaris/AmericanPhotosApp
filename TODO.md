@@ -9,7 +9,6 @@
 
 
 ## Install Follup Ups
-npm WARN @schematics/package-update@0.3.2 requires a peer of @angular-devkit/schematics@0.3.2 but none is installed. You must install peer dependencies yourself.
 npm WARN @schematics/package-update@0.3.2 requires a peer of @angular-devkit/core@0.3.2 but none is installed. You must install peer dependencies yourself.
 npm WARN @schematics/package-update@0.3.2 requires a peer of @angular-devkit/schematics@0.3.2 but none is installed. You must install peer dependencies yourself.
 npm WARN extract-text-webpack-plugin@3.0.2 requires a peer of webpack@^3.1.0 but none is installed. You must install peer dependencies yourself.
