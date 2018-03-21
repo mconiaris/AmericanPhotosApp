@@ -35,3 +35,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * March 5, 2018: installed Boostrap
 
 
+# General Principals
+## Angular
+* The app has an index.html page with the app-root component. By default the application has only the app-root component which is defined inside the src/app folder. 
