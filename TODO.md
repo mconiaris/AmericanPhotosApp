@@ -1,9 +1,6 @@
 #American Photos TODO
 
 ## Current Install
-* can you modify package-lock.json directly or should you do it through package.json?
-* look into zkat / ssri issue and package-lock.json
-* Research proper package.json setup
 * Research scripts in package.json
 * Research purpose of angular-cli.json. A tutorial suggests that I add bootstrap there but npm install bootstrap did not.
 
