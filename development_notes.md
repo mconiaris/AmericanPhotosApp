@@ -24,6 +24,8 @@ Run npm outdated, which will list packages that need to be updated.
 
 run npm update in the same directory as the package.json file of the application that you want to update. package.json and package-lock.json are updated automatically.
 
+If a particular dependency needs to be updated, you may find it's parent with npm ls <package name>
+
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
