@@ -22,7 +22,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Check for Updates
 Run npm outdated, which will list packages that need to be updated.
 
-run npm update in the same directory as the package.json file of the application that you want to update.
+run npm update in the same directory as the package.json file of the application that you want to update. package.json and package-lock.json are updated automatically.
 
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
