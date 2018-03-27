@@ -3,6 +3,7 @@
 ## Current Install
 * Research scripts in package.json
 * Research purpose of angular-cli.json. A tutorial suggests that I add bootstrap there but npm install bootstrap did not.
+* Do I manually put Bootstrap in angular-cli.json?
 
 
 ## Install Follup Ups
